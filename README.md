@@ -11,8 +11,7 @@
 
 - Contacto: **https://www.linkedin.com/in/fidux/**
 
-- Acerca de mi: **Me propongo estudiar y practicar diariamente teniendo en cuenta el espacio y tiempos con los que cuento en mi rutina. Soy una persona paciente y curiosa la cual le atrae todo lo relacionado a la tecnología.**
-
+- Acerca de mi: **Me propongo estudiar y practicar diariamente teniendo en cuenta el espacio y tiempos con los que cuento en mi rutina. Soy una persona paciente y curiosa. Por eso, mi facilidad para aprender.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fernando martín goñi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando martín goñi" height="30" width="40" /></a>

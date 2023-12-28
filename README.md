@@ -10,6 +10,7 @@
 - Tecnología favorita: **.NET Core**
 
 - Contacto: **https://www.linkedin.com/in/fidux/**
+- Página personal: http://www.develofer.somee.com/
 
 - Acerca de mi: **Me propongo estudiar y practicar diariamente teniendo en cuenta el espacio y tiempos con los que cuento en mi rutina. Soy una persona paciente y curiosa. Por eso, mi facilidad para aprender.
 <h3 align="left">Connect with me:</h3>

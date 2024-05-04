@@ -1,18 +1,16 @@
 <h1 align="center">Saludos! 👋, soy Fernando</h1>
-<h3 align="center">Bienvenido/a a mi Github, acá encontrarás desde ejercicios hasta proyectos personales.</h3>
+<h3 align="center">Bienvenido/a a mi Github, acá encontrarás desde ejercicios hasta proyectos personales de práctica</h3>
 
 - Proyecto en desarrollo: **Porfolio personal**
 
-- Me encuentro estudiando: **.NET Core MVC**
+- Me encuentro estudiando: **Tecnicatura Universitaria En Programación**
 
-- Perfil programador: **Developer Full Stack**
-
-- Tecnología favorita: **.NET Core**
+- Perfil programador: **Desarrollador Trainee**
 
 - Contacto: **https://www.linkedin.com/in/fidux/**
 - Página personal: http://www.develofer.somee.com/
 
-- Acerca de mi: **Me propongo estudiar y practicar diariamente teniendo en cuenta el espacio y tiempos con los que cuento en mi rutina. Soy una persona paciente y curiosa. Por eso, mi facilidad para aprender.
+- Acerca de mi: **Me propongo estudiar y practicar diariamente teniendo en cuenta el espacio y tiempos con los que cuento en mi rutina. Soy una persona paciente y curiosa. De ahí, mi facilidad para aprender.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fernando martín goñi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando martín goñi" height="30" width="40" /></a>

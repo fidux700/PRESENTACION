@@ -13,7 +13,7 @@
 - Acerca de mi: **Me propongo estudiar y practicar diariamente teniendo en cuenta el espacio y tiempos con los que cuento en mi rutina. Soy una persona paciente y curiosa. De ahí, mi facilidad para aprender.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fernando martín goñi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando martín goñi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fidux/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando martín goñi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
